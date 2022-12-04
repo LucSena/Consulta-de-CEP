@@ -64,7 +64,6 @@ Um site para fazer o realizamento de consultas de CEP e realizar a devolução d
 
 ## 📝 Objetivo
 
-Este projeto foi desenvolvido durante uma atividade do curso técnico de Desenvolvimento de Sistemas do Senai MT sobre Javascript e a utilização de JSON.
-Ministradas pelo professor Augusto de Oliveira.
+Este projeto foi desenvolvido para demonstrar conhecimentos em utilizar APIS em projetos e conhecimentos em JavaScript.
 
 Feito por Lucas de Sena👋🏽 [Entre em contato!](https://www.linkedin.com/in/lucas-de-sena/)
