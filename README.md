@@ -18,14 +18,14 @@ Um site para fazer o realizamento de consultas de CEP e realizar a devolução d
 
 ## 🎨 Imagens do projeto
 
-<!--  > Página Inicial
+ > Página Inicial
 ![GK1](https://github.com/LucSena/Consulta-de-CEP/blob/main/ImagensGIT/FireShot%20Capture%20045%20-%20Consulta%20de%20CEP%20-%20localhost.png)
 
 > Quando o usuario tenta cadastrar porém não adiciona nada
 ![GK1](https://github.com/LucSena/Consulta-de-CEP/blob/main/ImagensGIT/FireShot%20Capture%20047%20-%20Consulta%20de%20CEP%20-%20localhost.png)
 
 > Tela quando itens são cadastrados
-![GK1](https://github.com/LucSena/Consulta-de-CEP/blob/main/ImagensGIT/FireShot%20Capture%20048%20-%20Consulta%20de%20CEP%20-%20localhost.png) -->
+![GK1](https://github.com/LucSena/Consulta-de-CEP/blob/main/ImagensGIT/FireShot%20Capture%20048%20-%20Consulta%20de%20CEP%20-%20localhost.png)
 
  
 ---
