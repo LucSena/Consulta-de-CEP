@@ -12,7 +12,7 @@
 
 ## 💻 Sobre o projeto
 
-Um site para o realizamento de cadastro de produtos em uma lista, utilizando JSON, um sistema simples.
+Um site para fazer o realizamento de consultas de CEP e realizar a devolução dos dados daquele codigo.
 
 ---
 
@@ -40,7 +40,7 @@ Um site para o realizamento de cadastro de produtos em uma lista, utilizando JSO
 
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JSON](https://img.shields.io/badge/-Json-0D1117?style=for-the-badge&logo=json&logoColor=purple&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ---
 
 ## 🕸 Organização do Projeto
@@ -58,8 +58,7 @@ Um site para o realizamento de cadastro de produtos em uma lista, utilizando JSO
 1. Realize a instalação desse repositorio.
 2. Concluido isso, é só abrir o arquivo "index.html" em seu navegador de preferencia.
 
-* Um apontamento necessario é que todos arquivos cadastrados não são salvos em um banco de dados e sim localstorage, ou seja, se o seu navegador não
-  salva o cache(OPERA, BRAVE, EDGE SALVAM), assim que recarregar a pagina, tudo ira ser excluido.
+* Um apontamento necessario é que o objetivo do projeto é em si realizar a consulta e não no design em si do site.
   
 ---
 
